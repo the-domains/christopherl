@@ -1,6 +1,6 @@
 name: christopherl
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.51212
 typography_spectrum: 0.49624
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.5
+  brandStrength: 0
   lightness: 0.30786198284476995
   saturation: 0.5970977144315839
   rhythmicContrast: 0.742017128970474

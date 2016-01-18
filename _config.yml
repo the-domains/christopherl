@@ -1,4 +1,5 @@
-layout_spectrum: 0.3699154064524919
+favicon: null
+name: christopherl
 opengraph:
   image: null
   type: null
@@ -17,17 +18,18 @@ collections:
       number: 10
 purpose: []
 color:
-  saturation: 0.5970977144315839
-  lightness: 0.30786198284477
+  saturation: 0
   brandStrength: 0.483871
+  lightness: 1
   brandColors:
     - '#D6D0D0'
     - '#655D4B'
     - '#1F306D'
     - '#0C0204'
     - '#A4201E'
-  rhythmicContrast: 0.742017128970474
-typography_spectrum: 0.2643334977328777
+  rhythmicContrast: 0.7759857
+typography_spectrum: 0.374552
+layout_spectrum: 1
 cta:
   bucket: null
   version: null
@@ -36,5 +38,3 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-name: christopherl

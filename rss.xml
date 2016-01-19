@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Est. 2016]]></title>
-        <description><![CDATA[Est. 2016]]></description>
+        <title><![CDATA[christopherl.xyz]]></title>
+        <description><![CDATA[christopherl.xyz]]></description>
         <link>http://christopherl.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 03:37:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jan 2016 03:43:57 GMT</lastBuildDate>
         <atom:link href="http://christopherl.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About]]></title>
-            <description><![CDATA[<article><h1>About</h1><p>A new website for a new era. Because all the best .com's are .xyz</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f81d5f41cc82fd4eff492b60366e41e1655f31f3.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>About</h1><p>A new website for a new era. Because all the best .com's are .xyz</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3a9eb8682080870894ee383681792f4bd506b21c.jpg"></article>]]></description>
             <link>http://christopherl.xyz/about/index.html</link>
             <guid isPermaLink="false">1ebe2cf5-7cbd-4f38-9246-7a4c05f2c912</guid>
             <pubDate>Tue, 19 Jan 2016 03:36:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I for one welcome our ad-free, iOS based, future. ]]></title>
-            <description><![CDATA[<article><h1>I for one welcome our ad-free, iOS based, future. </h1><p>Apple's five year effort to radically enhance iOS app advertising with its own ad sales has now been scuttled. That opens the door for an even more radical rethinking of how to monetize apps and Internet services, one that is clearly differentiated from the incessant adware associated with Android, Windows and the open web.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/77a62f5edacb85ddac148340d77259332a70addf.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>I for one welcome our ad-free, iOS based, future. </h1><p>Apple's five year effort to radically enhance iOS app advertising with its own ad sales has now been scuttled. That opens the door for an even more radical rethinking of how to monetize apps and Internet services, one that is clearly differentiated from the incessant adware associated with Android, Windows and the open web.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6ecbd7cfc5c939aa32f90fefd6214837f1a32f89.jpg"></article>]]></description>
             <link>http://iphone.appleinsider.com/articles/16/01/18/after-abandoning-iad-revenue-apple-can-reintroduce-an-ad-free-internet-</link>
             <guid isPermaLink="false">e865c68c-5e73-4462-bbb0-23ae84803673</guid>
-            <pubDate>Tue, 19 Jan 2016 03:34:52 GMT</pubDate>
+            <pubDate>Tue, 19 Jan 2016 03:43:39 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -1,13 +1,25 @@
 name: christopherl
 favicon: null
-layout_spectrum: 0.3699154064524919
-typography_spectrum: 0.26433349773287773
+layout_spectrum: 1
+typography_spectrum: 0.374552
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-51281227-7
   facebook: null
   twitter: null
 opengraph:
@@ -16,13 +28,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.16873548994772136
-  lightness: 0.30786198284476995
-  saturation: 0.5970977144315839
-  rhythmicContrast: 0.742017128970474
+    - '#111518'
+    - '#dcccb3'
+    - '#cb6245'
+    - '#7b291e'
+    - '#3e5b7d'
+  brandStrength: 1
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 0.5
 purpose: []

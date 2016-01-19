@@ -4,7 +4,7 @@
         <description><![CDATA[christopherl]]></description>
         <link>http://christopherl.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 03:27:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jan 2016 03:31:13 GMT</lastBuildDate>
         <atom:link href="http://christopherl.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About]]></title>
@@ -12,13 +12,6 @@
             <link>http://christopherl.xyz/about/index.html</link>
             <guid isPermaLink="false">1ebe2cf5-7cbd-4f38-9246-7a4c05f2c912</guid>
             <pubDate>Mon, 18 Jan 2016 02:03:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Grid]]></title>
-            <description><![CDATA[<article><h1>The Grid</h1><p>https://www.youtube.com/watch?v=tFXYuw96d0c</p></article>]]></description>
-            <link>http://christopherl.xyz/the-grid/index.html</link>
-            <guid isPermaLink="false">303374c2-5378-46b9-811f-6a36073b6ef1</guid>
-            <pubDate>Tue, 19 Jan 2016 03:27:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I for one welcome our ad-free, iOS based, future. ]]></title>

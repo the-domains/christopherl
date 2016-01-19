@@ -17,7 +17,7 @@ keywords:
   - ios
   - android
 description: ''
-datePublished: '2016-01-19T03:43:38.984Z'
+datePublished: '2016-01-19T03:43:39.025Z'
 dateModified: '2016-01-19T03:43:11.481Z'
 author: []
 related: []

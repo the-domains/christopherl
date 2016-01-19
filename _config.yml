@@ -1,41 +1,41 @@
-name: christopherl
-favicon: null
-layout_spectrum: 0.48872
-typography_spectrum: 0.13534
+title: christopherl.xyz
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: christopherl.xyz
+    permalink:
+      path: '/:title/'
+color:
+  saturation: 0
+  lightness: 1
+  brandStrength: 0
+  brandColors:
+    - '#E7DFCF'
+    - '#BDB6A2'
+    - '#88816D'
+    - '#383127'
+    - '#913A31'
+  rhythmicContrast: 0.5
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: UA-51281227-7
   facebook: null
-  twitter: null
+favicon: null
+name: christopherl
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#111518'
-    - '#dcccb3'
-    - '#cb6245'
-    - '#7b291e'
-    - '#3e5b7d'
-  brandStrength: 0
-  lightness: 1
-  saturation: 0
-  rhythmicContrast: 0.5
-purpose: []
+typography_spectrum: 0.13534
+layout_spectrum: 0.48872

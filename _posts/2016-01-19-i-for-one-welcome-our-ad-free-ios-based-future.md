@@ -22,7 +22,7 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://iphone.appleinsider.com/articles/16/01/18/after-abandoning-iad-revenue-apple-can-reintroduce-an-ad-free-internet-'
 title: 'I for one welcome our ad-free, iOS based, future. '
-datePublished: '2016-01-19T03:34:52.704Z'
+datePublished: '2016-01-19T03:34:52.680Z'
 dateModified: '2016-01-19T03:34:20.036Z'
 sourcePath: _posts/2016-01-19-i-for-one-welcome-our-ad-free-ios-based-future.md
 published: true

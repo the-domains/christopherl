@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'http://iphone.appleinsider.com'
   name: Appleinsider
-  favicon: null
   domain: iphone.appleinsider.com
+  url: 'http://iphone.appleinsider.com'
+  favicon: null
 keywords:
   - apple
   - google
@@ -22,13 +22,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://iphone.appleinsider.com/articles/16/01/18/after-abandoning-iad-revenue-apple-can-reintroduce-an-ad-free-internet-'
 title: 'I for one welcome our ad-free, iOS based, future. '
-datePublished: '2016-01-19T03:06:12.674Z'
-dateModified: '2016-01-19T03:05:36.406Z'
+datePublished: '2016-01-19T03:34:52.653Z'
+dateModified: '2016-01-19T03:34:20.036Z'
 sourcePath: _posts/2016-01-19-i-for-one-welcome-our-ad-free-ios-based-future.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: false
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 

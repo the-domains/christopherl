@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Est. 2016]]></title>
-        <description><![CDATA[Est. 2016]]></description>
+        <title><![CDATA[christopherl]]></title>
+        <description><![CDATA[christopherl]]></description>
         <link>http://christopherl.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jan 2016 23:47:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jan 2016 23:52:52 GMT</lastBuildDate>
         <atom:link href="http://christopherl.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Publishing]]></title>
-            <description><![CDATA[<article><h1>Publishing</h1><h2>Bonuses</h2><p>Seventeen years ago I built my first website ... so there's that depressing little fun fact to get us started. Here we are, it's 2016, and robots build websites. A brave new world indeed.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3b13035f3b1e2cf23d9b1d8e66c526ae31ea8628.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Publishing</h1><h2>Bonuses</h2><p>Seventeen years ago I built my first website ... so there's that depressing little fun fact to get us started. Here we are, it's 2016, and robots build websites. A brave new world indeed.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed3ad2b33b5da638b2ea9902b6f366c74d1fe42a.jpg"></article>]]></description>
             <link>http://christopherl.xyz/first/index.html</link>
             <guid isPermaLink="false">91a7f03d-1d08-4c9b-bed0-f63a8f630ebd</guid>
-            <pubDate>Sat, 30 Jan 2016 23:39:24 GMT</pubDate>
+            <pubDate>Sat, 30 Jan 2016 23:52:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[About]]></title>
-            <description><![CDATA[<article><h1>About</h1><p>A new website for a new era. Because all the best .com's are .xyz</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3a9eb8682080870894ee383681792f4bd506b21c.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>About</h1><p>A new website for a new era. Because all the best .com's are .xyz</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ead626d965310539be4c1d5f72b2e67be89a6a55.jpg"></article>]]></description>
             <link>http://christopherl.xyz/about/index.html</link>
             <guid isPermaLink="false">1ebe2cf5-7cbd-4f38-9246-7a4c05f2c912</guid>
             <pubDate>Sat, 30 Jan 2016 23:47:48 GMT</pubDate>

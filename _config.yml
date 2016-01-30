@@ -1,5 +1,8 @@
-title: christopherl.xyz
-purpose: []
+name: christopherl
+favicon: null
+layout_spectrum: 0.48872
+typography_spectrum: 0.13534
+title: Est. 2016
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-51281227-7
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0
-  brandStrength: 0
-  lightness: 1
   brandColors:
     - '#E7DFCF'
     - '#BDB6A2'
     - '#88816D'
     - '#383127'
     - '#913A31'
+  brandStrength: 0
+  lightness: 1
+  saturation: 0
   rhythmicContrast: 0.4193548
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: UA-51281227-7
-  facebook: null
-favicon: null
-name: christopherl
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.13534
-layout_spectrum: 0.48872
+purpose: []

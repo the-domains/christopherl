@@ -2,7 +2,7 @@ name: christopherl
 favicon: null
 layout_spectrum: 0.25125
 typography_spectrum: 0.13534
-title: christopherl.xyz
+title: Est. 2016
 collections:
   - index:
       path: /
@@ -34,7 +34,7 @@ color:
     - '#fde5e8'
     - '#d8ced6'
     - '#9fa7bb'
-  brandStrength: 0.625
+  brandStrength: 0.1875
   lightness: 0.375
   saturation: 0.875
   rhythmicContrast: 0.25
